@@ -1,0 +1,3 @@
+/home/hp/code/mysql/sqlite-autoconf-3310100/test/build/CMakeFiles/rebuild_cache.dir
+/home/hp/code/mysql/sqlite-autoconf-3310100/test/build/CMakeFiles/query_arm_6.4.dir
+/home/hp/code/mysql/sqlite-autoconf-3310100/test/build/CMakeFiles/edit_cache.dir

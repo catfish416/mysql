@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../sqlite3.h
+stdarg.h
+-
+
+/home/hp/code/mysql/sqlite-autoconf-3310100/test/delete.c
+stdio.h
+-
+stdlib.h
+-
+sqlite3.h
+/home/hp/code/mysql/sqlite-autoconf-3310100/test/sqlite3.h
+
